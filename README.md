@@ -146,32 +146,32 @@
   <thead>
     <tr>
       <th style="text-align: left;">Method</th>
-      <th style="text-align: center;">Mean Abs. Full Corr. $\downarrow$</th>
-      <th style="text-align: center;">Gaussian MI Proxy $\downarrow$</th>
-      <th style="text-align: center;">HSIC $\downarrow$</th>
+      <th style="text-align: center;">Mean Abs. Full Corr. ↓</th>
+      <th style="text-align: center;">Gaussian MI Proxy ↓</th>
+      <th style="text-align: center;">HSIC ↓</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left;">Before purification ($f_s$ vs $f_r$)</td>
+      <td style="text-align: left;">Before purification (<i>f<sub>s</sub></i> vs <i>f<sub>r</sub></i>)</td>
       <td style="text-align: center;">0.956</td>
       <td style="text-align: center;">6.561</td>
       <td style="text-align: center;">0.765</td>
     </tr>
     <tr>
-      <td style="text-align: left;">After purification ($f_s$ vs $f_a$)</td>
+      <td style="text-align: left;">After purification (<i>f<sub>s</sub></i> vs <i>f<sub>a</sub></i>)</td>
       <td style="text-align: center;">0.051</td>
       <td style="text-align: center;">0.032</td>
       <td style="text-align: center;">0.019</td>
     </tr>
     <tr>
-      <td style="text-align: left;">Opinion evidence before purification ($e_s$ vs $e_r$)</td>
+      <td style="text-align: left;">Opinion evidence before purification (<i>e<sub>s</sub></i> vs <i>e<sub>r</sub></i>)</td>
       <td style="text-align: center;">0.916</td>
       <td style="text-align: center;">5.063</td>
       <td style="text-align: center;">0.647</td>
     </tr>
     <tr>
-      <td style="text-align: left;">Opinion evidence after purification ($e_s$ vs $e_a$)</td>
+      <td style="text-align: left;">Opinion evidence after purification (<i>e<sub>s</sub></i> vs <i>e<sub>a</sub></i>)</td>
       <td style="text-align: center;">0.051</td>
       <td style="text-align: center;">0.031</td>
       <td style="text-align: center;">0.018</td>
