@@ -137,9 +137,45 @@
 
 
 
+<b>Table III. Supplementary efficiency comparison under a unified local profiling protocol.</b>
+
+<table style="margin: auto; margin-top: 10px;">
+  <thead>
+    <tr>
+      <th style="text-align: left;">Method</th>
+      <th style="text-align: center;">Trainable Param. (M)</th>
+      <th style="text-align: center;">GFLOPs</th>
+      <th style="text-align: center;">Inference Time / Frame (ms)</th>
+      <th style="text-align: center;">FPS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left;">Effort</td>
+      <td style="text-align: center;">0.199</td>
+      <td style="text-align: center;">103.893</td>
+      <td style="text-align: center;">22.709 ± 0.431</td>
+      <td style="text-align: center;">44.04</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">GenD</td>
+      <td style="text-align: center;">0.104</td>
+      <td style="text-align: center;">155.634</td>
+      <td style="text-align: center;">17.983 ± 0.027</td>
+      <td style="text-align: center;">55.61</td>
+    </tr>
+    <tr>
+      <td style="text-align: left;">Ours</td>
+      <td style="text-align: center;">0.868</td>
+      <td style="text-align: center;">156.080</td>
+      <td style="text-align: center;">21.112 ± 0.322</td>
+      <td style="text-align: center;">47.37</td>
+    </tr>
+  </tbody>
+</table>
 
 
-<b>Table III. Dependence diagnostics before and after purification at both feature and final evidence levels.</b>
+<b>Table IV. Dependence diagnostics before and after purification at both feature and final evidence levels.</b>
 
 <table style="margin: auto; margin-top: 10px;">
   <thead>
@@ -179,42 +215,7 @@
 </table>
 
 
-<b>Table IV. Supplementary efficiency comparison under a unified local profiling protocol.</b>
 
-<table style="margin: auto; margin-top: 10px;">
-  <thead>
-    <tr>
-      <th style="text-align: left;">Method</th>
-      <th style="text-align: center;">Trainable Param. (M)</th>
-      <th style="text-align: center;">GFLOPs</th>
-      <th style="text-align: center;">Inference Time / Frame (ms)</th>
-      <th style="text-align: center;">FPS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left;">Effort</td>
-      <td style="text-align: center;">0.199</td>
-      <td style="text-align: center;">103.893</td>
-      <td style="text-align: center;">22.709 ± 0.431</td>
-      <td style="text-align: center;">44.04</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">GenD</td>
-      <td style="text-align: center;">0.104</td>
-      <td style="text-align: center;">155.634</td>
-      <td style="text-align: center;">17.983 ± 0.027</td>
-      <td style="text-align: center;">55.61</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">Ours</td>
-      <td style="text-align: center;">0.868</td>
-      <td style="text-align: center;">156.080</td>
-      <td style="text-align: center;">21.112 ± 0.322</td>
-      <td style="text-align: center;">47.37</td>
-    </tr>
-  </tbody>
-</table>
 
 
 
