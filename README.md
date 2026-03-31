@@ -140,7 +140,7 @@
 <table style="margin: auto; margin-top: 10px;">
   <thead>
     <tr>
-      <th style="text-align: left;">Method</th>
+      <th style="text-align: left;">Methods</th>
       <th style="text-align: center;">Trainable Param. (M)</th>
       <th style="text-align: center;">GFLOPs</th>
       <th style="text-align: center;">Inference Time / Frame (ms)</th>
@@ -180,7 +180,7 @@
 <table style="margin: auto; margin-top: 10px;">
   <thead>
     <tr>
-      <th style="text-align: left;">Method</th>
+      <th style="text-align: left;">Methods</th>
       <th style="text-align: center;">Mean Abs. Full Corr. ↓</th>
       <th style="text-align: center;">Gaussian MI Proxy ↓</th>
       <th style="text-align: center;">HSIC ↓</th>
