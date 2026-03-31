@@ -139,7 +139,7 @@
 
 
 
-<b>Table III. Dependence diagnostics before and after purification.</b>
+<b>Table III. Dependence diagnostics before and after purification at both feature and final evidence levels.</b>
 
 <table style="margin: auto; margin-top: 10px;">
   <thead>
