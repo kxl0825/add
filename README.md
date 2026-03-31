@@ -135,8 +135,6 @@
 </table>
 
 
-
-
 <b>Table III. Supplementary efficiency comparison under a unified local profiling protocol.</b>
 
 <table style="margin: auto; margin-top: 10px;">
@@ -164,7 +162,7 @@
       <td style="text-align: center;">17.983 ± 0.027</td>
       <td style="text-align: center;">55.61</td>
     </tr>
-    <tr>
+    <tr style="font-weight: bold;">
       <td style="text-align: left;">Ours</td>
       <td style="text-align: center;">0.868</td>
       <td style="text-align: center;">156.080</td>
@@ -173,6 +171,8 @@
     </tr>
   </tbody>
 </table>
+
+
 
 
 <b>Table IV. Dependence diagnostics before and after purification at both feature and final evidence levels.</b>
@@ -188,13 +188,13 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left;">Before purification (<i>f<sub>s</sub></i> vs <i>f<sub>r</sub></i>)</td>
+      <td style="text-align: left;">Features before purification (<i>f<sub>s</sub></i> vs <i>f<sub>r</sub></i>)</td>
       <td style="text-align: center;">0.956</td>
       <td style="text-align: center;">6.561</td>
       <td style="text-align: center;">0.765</td>
     </tr>
-    <tr>
-      <td style="text-align: left;">After purification (<i>f<sub>s</sub></i> vs <i>f<sub>a</sub></i>)</td>
+    <tr style="font-weight: bold;">
+      <td style="text-align: left;">Features after purification (<i>f<sub>s</sub></i> vs <i>f<sub>a</sub></i>)</td>
       <td style="text-align: center;">0.051</td>
       <td style="text-align: center;">0.032</td>
       <td style="text-align: center;">0.019</td>
@@ -205,7 +205,7 @@
       <td style="text-align: center;">5.063</td>
       <td style="text-align: center;">0.647</td>
     </tr>
-    <tr>
+    <tr style="font-weight: bold;">
       <td style="text-align: left;">Opinion evidence after purification (<i>e<sub>s</sub></i> vs <i>e<sub>a</sub></i>)</td>
       <td style="text-align: center;">0.051</td>
       <td style="text-align: center;">0.031</td>
