@@ -1,4 +1,4 @@
-<b>Table 2. Semantic-targeted FGSM results (video-level AUC) on FF++, CDFv2, and DFDC for the original model and ADE variants.</b>
+<b>Table I. Semantic-targeted FGSM results (video-level AUC) on FF++, CDFv2, and DFDC for the original model and ADE variants.</b>
 
 <table>
   <thead>
@@ -90,7 +90,7 @@
 
 
 
-<b>Table 3. Ours Mean Video-Level Evidential Uncertainty (0-1) under semantic-targeted FGSM attacks.</b>
+<b>Table II. Ours Mean Video-Level Evidential Uncertainty (0-1) under semantic-targeted FGSM attacks.</b>
 
 <table>
   <thead>
@@ -139,7 +139,7 @@
 
 
 
-<b>Table 7. Dependence diagnostics before and after purification.</b>
+<b>Table III. Dependence diagnostics before and after purification.</b>
 
 <table style="margin: auto; margin-top: 10px;">
   <thead>
@@ -179,7 +179,7 @@
 </table>
 
 
-<b>Table 6. Supplementary efficiency comparison under a unified local profiling protocol.</b>
+<b>Table IV. Supplementary efficiency comparison under a unified local profiling protocol.</b>
 
 <table style="margin: auto; margin-top: 10px;">
   <thead>
@@ -215,6 +215,9 @@
     </tr>
   </tbody>
 </table>
+
+
+
 
 
 
